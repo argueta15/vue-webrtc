@@ -95,6 +95,7 @@ npm run demo
 
 | Version           | Notes                                                                   |
 | -------------- | ----------------------------------------------------------------------- |
+| 1.3.0           | rtcmulticonnection 3.6.9                                            |
 | 1.2.0           | Added the Screen Share button                                       |
 
 
