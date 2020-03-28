@@ -1,5 +1,5 @@
 {
-  "name": "@argue/vue-webrtc",
+  "name": "@argueta10/vue-webrtc",
   "version": "1.3.0",
   "description": "WebRTC video component for Vue.js",
   "main": "dist/index.js",
