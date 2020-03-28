@@ -1,3 +1,9 @@
+# new features
+
+- package.json updated
+- webpack.config.js updated to webpack 4
+- package rtcmulticonnection 3.6.9
+- error node engines resolved
 
 # vue-webrtc
 
