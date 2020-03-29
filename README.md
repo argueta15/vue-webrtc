@@ -25,20 +25,20 @@ for browser compatibility.
 ## Installation
 
 ```
-npm install vue-webrtc --save
+npm install @argueta10/vue-webrtc --save
 
-yarn add vue-webrtc
+yarn add @argueta10/vue-webrtc
 ```
 
 ## Usage
 
 ```javascript
 import Vue from 'vue'
-import WebRTC from 'vue-webrtc'
+import WebRTC from '@argueta10/vue-webrtc'
 
 Vue.use(WebRTC)
 // or
-import {WebRTC} from 'vue-webrtc'
+import {WebRTC} from '@argueta10/vue-webrtc'
 Vue.component(WebRTC.name, WebRTC)
 
 // template
